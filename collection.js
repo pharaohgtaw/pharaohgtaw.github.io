@@ -171,6 +171,17 @@ const collection = {
         white: "https://i.imgur.com/x5wmcxh.png",
         platinum: "https://picsum.photos/400?random=16"
       }
+    },
+    {
+      id: 12,
+      name: "prodotto con un nome molto lungo vediamo come esce",
+      price: 10000,
+      discountPrice: 5000,
+      gender: "female",
+      categoryId: 1,
+      colors: {
+        white: "https://picsum.photos/400?random=13"
+      }
     }
   ]
 };
