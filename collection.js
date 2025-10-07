@@ -174,7 +174,7 @@ const collection = {
     },
     {
       id: 12,
-      name: "prodotto con un nome molto lungo vediamo come esce",
+      name: "PHARAOH™ 18K White Gold, Diamond, Sapphire Two Butterfly Between Finger Ring",
       price: 10000,
       discountPrice: 5000,
       gender: "female",
