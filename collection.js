@@ -168,7 +168,8 @@ const collection = {
       gender: "female",
       categoryId: 1,
       colors: {
-        white: "https://i.imgur.com/x5wmcxh.png"
+        white: "https://i.imgur.com/x5wmcxh.png",
+        platinum: "https://picsum.photos/400?random=16"
       }
     }
   ]
