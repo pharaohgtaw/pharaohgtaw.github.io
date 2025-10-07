@@ -160,6 +160,16 @@ const collection = {
         white: "https://picsum.photos/400?random=16",
         gold: "https://picsum.photos/400?random=16"
       }
+    },
+    {
+      id: 11,
+      name: "Test",
+      price: 12222,
+      gender: "female",
+      categoryId: 1,
+      colors: {
+        white: "https://i.imgur.com/x5wmcxh.png"
+      }
     }
   ]
 };
