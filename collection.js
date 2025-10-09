@@ -14,13 +14,17 @@ const collection = {
   // Each category needs: id (number), name (string)
   
   categories: [
-    { id: 1, name: "Rings" },
-    { id: 2, name: "Necklaces" },
+    { id: 1, name: "Bags" },
+    { id: 2, name: "Belts" },
     { id: 3, name: "Bracelets" },
-    { id: 4, name: "Watches" },
-    { id: 5, name: "Earrings" },
-    { id: 6, name: "New Category" },
-    { id: 7, name: "Newest Category" }
+    { id: 4, name: "Chains" },
+    { id: 5, name: "Custom Pieces" },
+    { id: 6, name: "Earrings" },
+    { id: 7, name: "Glasses" },
+    { id: 8, name: "Grills" },
+    { id: 9, name: "Necklaces" },
+    { id: 10, name: "Rings" },
+    { id: 11, name: "Watches" }
   ],
 
   // ============================================
