@@ -200,6 +200,116 @@ const collection = {
       colors: {
         brownish: "https://i.imgur.com/8AqZlUL.png"
       }
+    },
+    {
+      id: 17,
+      name: "PHARAOH™| BB Simon Belts - Kiara from Heart Sign Collection",
+      price: 5000,
+      gender: "female",
+      categoryId: 2,
+      colors: {
+        platinum: "https://i.imgur.com/UKIdnuX.png"
+      }
+    },
+    {
+      id: 18,
+      name: "PHARAOH™| BB Simon Belts - Nyoka from Heart Sign Collection",
+      price: 5000,
+      gender: "female",
+      categoryId: 2,
+      colors: {
+        red: "https://i.imgur.com/qBxF9y8.png"
+      }
+    },
+    {
+      id: 19,
+      name: "PHARAOH™| BB Simon Belts - Classic Western Black/Volcano",
+      price: 5000,
+      gender: "female",
+      categoryId: 2,
+      colors: {
+        black: "https://i.imgur.com/lFnVRp3.png"
+      }
+    },
+    {
+      id: 20,
+      name: "PHARAOH™| BB Simon Belts - Trojan Classic-Coiled Serpent/Black Chrome",
+      price: 5000,
+      gender: "female",
+      categoryId: 2,
+      colors: {
+        platinum: "https://i.imgur.com/JfWyJnG.png"
+      }
+    },
+    {
+      id: 21,
+      name: "PHARAOH™| BB Simon Belts - Jack The Skeleton ",
+      price: 5000,
+      gender: "unisex",
+      categoryId: 2,
+      colors: {
+        black: "https://i.imgur.com/nx6OkL1.png"
+      }
+    },
+    {
+      id: 22,
+      name: "PHARAOH™| BB Simon Belts - Sally from the Custom Collection",
+      price: 5000,
+      gender: "unisex",
+      categoryId: 2,
+      colors: {
+        black: "https://i.imgur.com/isxyDxo.png"
+      }
+    },
+    {
+      id: 23,
+      name: "PHARAOH™| BB Simon Belts - The Trojan Gengar",
+      price: 5000,
+      gender: "unisex",
+      categoryId: 2,
+      colors: {
+        black: "https://i.imgur.com/BBrNzom.png"
+      }
+    },
+    {
+      id: 24,
+      name: "PHARAOH™| BB Simon Belts - Trojan Toxic",
+      price: 5000,
+      gender: "unisex",
+      categoryId: 2,
+      colors: {
+        black: "https://i.imgur.com/n4HfbIf.png"
+      }
+    },
+    {
+      id: 25,
+      name: "PHARAOH™| Gucci - Republica Fashion w/30ct of Diamonds&30ct of Gold",
+      price: 249,
+      gender: "unisex",
+      categoryId: 2,
+      colors: {
+        platinum: "https://i.imgur.com/9F9nE1t.png"
+      }
+    },
+    {
+      id: 26,
+      name: "PHARAOH™| Hermes - Etriviere",
+      price: 5000,
+      gender: "female",
+      categoryId: 2,
+      colors: {
+        brownish: "https://i.imgur.com/Q8CVtCC.png"
+      }
+    },
+    {
+      id: 27,
+      name: "PHARAOH™| Cartier - Crocodile Leather and Palladium",
+      price: 5000,
+      gender: "male",
+      categoryId: 2,
+      colors: {
+        black: "https://i.imgur.com/IxMF4fg.png"
+      }
     }
   ]
 };
@@ -217,5 +327,6 @@ const colorHex = {
   green: '#50c878',
   rose: '#ff66cc',
   platinum: '#e5e4e2',
-  brownish: '#35301c'
+  brownish: '#35301c',
+  red: '#FF0000'
 };
