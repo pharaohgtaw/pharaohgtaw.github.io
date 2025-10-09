@@ -42,14 +42,163 @@ const collection = {
   
   products: [
     {
-      id: 11,
-      name: "Test",
-      price: 12222,
+      id: 1,
+      name: "PHARAOH™| Intrecciato Leather Wristlet Bag",
+      price: 7000,
+      gender: "male",
+      categoryId: 1,
+      colors: {
+        brownish: "https://i.imgur.com/Dv1lZEc.png"
+      }
+    },
+    {
+      id: 2,
+      name: "PHARAOH™| Pine Green Braided Calfskin Zipper Chest - Waist Bag",
+      price: 7000,
+      gender: "male",
+      categoryId: 1,
+      colors: {
+        green: "https://i.imgur.com/AhqhSq5.png"
+      }
+    },
+    {
+      id: 3,
+      name: "PHARAOH™| Gucci - GG Shoulder Bag With Leather Details",
+      price: 15000,
+      gender: "male",
+      categoryId: 1,
+      colors: {
+        brownish: "https://i.imgur.com/X1zM7pZ.png"
+      }
+    },
+    {
+      id: 4,
+      name: "PHARAOH™| Black leather shoulder bag w/hand-stitched seams and gold lettering",
+      price: 10000,
+      gender: "male",
+      categoryId: 1,
+      colors: {
+        black: "https://i.imgur.com/CMTXDS9.png"
+      }
+    },
+    {
+      id: 5,
+      name: "PHARAOH™| Black leather shoulder bag V2 w/hand-stitched seams and black lettering",
+      price: 10000,
+      gender: "male",
+      categoryId: 1,
+      colors: {
+        black: "https://i.imgur.com/Ij6quSl.png"
+      }
+    },
+    {
+      id: 6,
+      name: "PHARAOH™| Intrecciato Leather Wristlet Clutch Bag",
+      price: 8500,
+      gender: "male",
+      categoryId: 1,
+      colors: {
+        black: "https://i.imgur.com/6qlI768.png"
+      }
+    },
+    {
+      id: 7,
+      name: "PHARAOH™| Studds Handbag",
+      price: 7000,
       gender: "female",
       categoryId: 1,
       colors: {
-        white: "https://i.imgur.com/x5wmcxh.png",
-        platinum: "https://picsum.photos/400?random=16"
+        black: "https://i.imgur.com/SePIEYX.png"
+      }
+    },
+    {
+      id: 8,
+      name: "PHARAOH™| "Lacing Bag" Handbag",
+      price: 7000,
+      gender: "female",
+      categoryId: 1,
+      colors: {
+        black: "https://i.imgur.com/Yq6sqP0.png"
+      }
+    },
+    {
+      id: 9,
+      name: "PHARAOH™| "Moloch Pentagram" Backpack black",
+      price: 7000,
+      gender: "female",
+      categoryId: 1,
+      colors: {
+        black: "https://i.imgur.com/CMtH1Rb.png"
+      }
+    },
+    {
+      id: 10,
+      name: "PHARAOH™| "Maplesage" Handbag red-black",
+      price: 10000,
+      gender: "female",
+      categoryId: 1,
+      colors: {
+        black: "https://i.imgur.com/veGZGKG.png"
+      }
+    },
+    {
+      id: 11,
+      name: "PHARAOH™| "Warren Plaid" Handbag black-red",
+      price: 10000,
+      gender: "female",
+      categoryId: 1,
+      colors: {
+        black: "https://i.imgur.com/b89WkOR.png"
+      }
+    },
+    {
+      id: 12,
+      name: "PHARAOH™| Toiletry Bag multicolour",
+      price: 7000,
+      gender: "female",
+      categoryId: 1,
+      colors: {
+        white: "https://i.imgur.com/Ismbn5j.png"
+      }
+    },
+    {
+      id: 13,
+      name: "PHARAOH™| Hermès - Metallic Birkin 25",
+      price: 15500,
+      gender: "female",
+      categoryId: 1,
+      colors: {
+        gold: "https://i.imgur.com/DQzYHLa.png"
+      }
+    },
+    {
+      id: 14,
+      name: "PHARAOH™| Chanel - "Diamond Forever" In alligator leather, set with 334 diamonds, and featuring an 18K white gold strap",
+      price: 261000,
+      gender: "female",
+      categoryId: 1,
+      colors: {
+        white: "https://i.imgur.com/seIiGer.png"
+      }
+    },
+    {
+      id: 15,
+      name: "PHARAOH™| Hermès - Fabourg Birkin",
+      price: 300000,
+      gender: "female",
+      categoryId: 1,
+      colors: {
+        white: "https://i.imgur.com/vW9tlt0.png"
+      }
+    },
+    {
+      id: 16,
+      name: "PHARAOH™| Herbag Zip Cabine Shoulder Bag",
+      price: 5000,
+      gender: "female",
+      categoryId: 1,
+      colors: {
+        brownish: "https://i.imgur.com/8AqZlUL.png"
       }
     }
   ]
