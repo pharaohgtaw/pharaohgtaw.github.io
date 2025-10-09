@@ -284,7 +284,7 @@ const collection = {
     {
       id: 25,
       name: "PHARAOH™| Gucci - Republica Fashion w/30ct of Diamonds&30ct of Gold",
-      price: 249,
+      price: 249000,
       gender: "unisex",
       categoryId: 2,
       colors: {
