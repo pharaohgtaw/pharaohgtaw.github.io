@@ -1472,6 +1472,286 @@ const collection = {
       colors: {
         gold: "https://i.imgur.com/UzlWR9C.png"
       }
+    },
+    {
+      id: 145,
+      name: "PHARAOH™| Custom 5.13 Carat Flawless Diamond Ring",
+      price: 500000,
+      gender: "unisex",
+      categoryId: 10,
+      colors: {
+        platinum: "https://i.imgur.com/yMoxVqY.png500000"
+      }
+    },
+    {
+      id: 146,
+      name: "PHARAOH™| Halo Diamond Tower Ring w/VVS Diamond",
+      price: 40000,
+      gender: "male",
+      categoryId: 10,
+      colors: {
+        gold: "https://i.imgur.com/RAU3tdu.png"
+      }
+    },
+    {
+      id: 147,
+      name: "PHARAOH™| 18K Diamond Box Ring w/VVS Diamond",
+      price: 40000,
+      gender: "male",
+      categoryId: 10,
+      colors: {
+        white: "https://i.imgur.com/8cP9OTW.png"
+      }
+    },
+    {
+      id: 148,
+      name: "PHARAOH™| 18K Custom Men’s Princess Cut Diamond 6mm Band w/VVS Diamond",
+      price: 30000,
+      gender: "male",
+      categoryId: 10,
+      colors: {
+        white: "https://i.imgur.com/wv2jQN9.png"
+      }
+    },
+    {
+      id: 149,
+      name: "PHARAOH™| 10K 1.65CTW Diamond Miami Cuban Mens Ring",
+      price: 15000,
+      gender: "male",
+      categoryId: 10,
+      colors: {
+        gold: "https://i.imgur.com/Cf0LyXZ.png"
+      }
+    },
+    {
+      id: 150,
+      name: "PHARAOH™| 10K 6.68 CT Triple Row King Ring",
+      price: 19000,
+      gender: "male",
+      categoryId: 10,
+      colors: {
+        white: "https://i.imgur.com/eLZdGfm.png"
+      }
+    },
+    {
+      id: 151,
+      name: "PHARAOH™| 14K 1.35CTW Diamond Mens Square Dome Ring, Black",
+      price: 25000,
+      gender: "male",
+      categoryId: 10,
+      colors: {
+        gold: "https://i.imgur.com/Qb6ruOR.png"
+      }
+    },
+    {
+      id: 152,
+      name: "PHARAOH™| 14K 0.96-1.05CT D-Mens Bands Ring",
+      price: 20000,
+      gender: "male",
+      categoryId: 10,
+      colors: {
+        gold: "https://i.imgur.com/MLLUCTt.png"
+      }
+    },
+    {
+      id: 153,
+      name: "PHARAOH™| 14K 1.0 CTTW Men's Diamond And Black Plated Center Designer Band",
+      price: 20000,
+      gender: "male",
+      categoryId: 10,
+      colors: {
+        gold: "https://i.imgur.com/eUXaEFu.png"
+      }
+    },
+    {
+      id: 154,
+      name: "PHARAOH™| 14K 0.21-0.31CT D-MENS BANDS",
+      price: 20000,
+      gender: "male",
+      categoryId: 10,
+      colors: {
+        gold: "https://i.imgur.com/YIQ7WiY.png"
+      }
+    },
+    {
+      id: 155,
+      name: "PHARAOH™| 14k D-Mens Rings DAD w/0.98ct Diamonds",
+      price: 20000,
+      gender: "male",
+      categoryId: 10,
+      colors: {
+        gold: "https://i.imgur.com/Tr6Zseb.png"
+      }
+    },
+    {
+      id: 156,
+      name: "PHARAOH™| 18K White Gold, Diamond, Sapphire Two Butterfly Between Finger Ring",
+      price: 24500,
+      gender: "female",
+      categoryId: 10,
+      colors: {
+        white: "https://i.imgur.com/xt4a08V.png"
+      }
+    },
+    {
+      id: 157,
+      name: "PHARAOH™| 18K Rose Gold Royal Baguette Ring w/8.97ct Diamonds",
+      price: 25000,
+      gender: "female",
+      categoryId: 10,
+      colors: {
+        rose: "https://i.imgur.com/CxlKhp0.png"
+      }
+    },
+    {
+      id: 158,
+      name: "PHARAOH™| 14K Pure Baguette Ring w/8ct Diamonds",
+      price: 20000,
+      gender: "female",
+      categoryId: 10,
+      colors: {
+        white: "https://i.imgur.com/SO3WEB5.png"
+      }
+    },
+    {
+      id: 159,
+      name: "PHARAOH™| 18k White Gold Diamond Panther Ring w/3.66ct Diamonds",
+      price: 28000,
+      gender: "female",
+      categoryId: 10,
+      colors: {
+        white: "https://i.imgur.com/K6YBYOD.png"
+      }
+    },
+    {
+      id: 160,
+      name: "PHARAOH™| 10k Custom Diamond Star Ring w/11ct White Diamonds",
+      price: 11000,
+      gender: "female",
+      categoryId: 10,
+      colors: {
+        gold: "https://i.imgur.com/l0wlX2m.png"
+      }
+    },
+    {
+      id: 161,
+      name: "PHARAOH™| 18k Diamond Cheetah Ring w/1.33ct White Diamonds",
+      price: 27000,
+      gender: "female",
+      categoryId: 10,
+      colors: {
+        gold: "https://i.imgur.com/BmN5OTC.png"
+      }
+    },
+    {
+      id: 162,
+      name: "PHARAOH™| 18k White Gold Diamond Cuban Link Ring w/VVS Diamonds",
+      price: 32000,
+      gender: "female",
+      categoryId: 10,
+      colors: {
+        white: "https://i.imgur.com/lqbCnUV.png"
+      }
+    },
+    {
+      id: 163,
+      name: "PHARAOH™| 14k 1.50CTW Diamond Fancy Ring",
+      price: 20000,
+      gender: "female",
+      categoryId: 10,
+      colors: {
+        white: "https://i.imgur.com/108scwJ.png"
+      }
+    },
+    {
+      id: 164,
+      name: "PHARAOH™| 14k 1.00CTW Diamond 3-Stone Ring",
+      price: 20000,
+      gender: "female",
+      categoryId: 10,
+      colors: {
+        white: "https://i.imgur.com/zPBihvC.png"
+      }
+    },
+    {
+      id: 165,
+      name: "PHARAOH™| 14KW+R 1.10CTW Baguette Diamond Ring - 8 SIDED HAL",
+      price: 18000,
+      gender: "female",
+      categoryId: 10,
+      colors: {
+        white: "https://i.imgur.com/Aa4EX6w.png"
+      }
+    },
+    {
+      id: 166,
+      name: "PHARAOH™| 10k Custom Diamond Bee Ring w/2.5ct Diamonds",
+      price: 12000,
+      gender: "female",
+      categoryId: 10,
+      colors: {
+        gold: "https://i.imgur.com/vt4xclP.png"
+      }
+    },
+    {
+      id: 167,
+      name: "PHARAOH™| 14k Baguette Diamond Square Head Ring w/0.75ct Diamonds",
+      price: 15000,
+      gender: "female",
+      categoryId: 10,
+      colors: {
+        white: "https://i.imgur.com/QOYYBJk.png"
+      }
+    },
+    {
+      id: 168,
+      name: "PHARAOH™| 18K White Gold 1 1/2 Ct.Tw. Diamond Custom Engagement Ring",
+      price: 35000,
+      gender: "female",
+      categoryId: 10,
+      colors: {
+        white: "https://i.imgur.com/TPvFbFO.png"
+      }
+    },
+    {
+      id: 169,
+      name: "PHARAOH™| 18k Diamond Bridal Set w/VVS Diamonds",
+      price: 30000,
+      gender: "female",
+      categoryId: 10,
+      colors: {
+        white: "https://i.imgur.com/m12h2qG.png"
+      }
+    },
+    {
+      id: 170,
+      name: "PHARAOH™| 18k Emerald Ladies Ring",
+      price: 27000,
+      gender: "female",
+      categoryId: 10,
+      colors: {
+        gold: "https://i.imgur.com/mGFlzVI.png"
+      }
+    },
+    {
+      id: 171,
+      name: "PHARAOH™| 18k Natural Mozambique Garnet & .03 CTW Natural Diamond Heart Rring",
+      price: 50000,
+      gender: "female",
+      categoryId: 10,
+      colors: {
+        gold: "https://i.imgur.com/xKxyIGz.png"
+      }
+    },
+    {
+      id: 172,
+      name: "PHARAOH™| Black & Gold w/Black CZ Tungsten Ring",
+      price: 20000,
+      gender: "female",
+      categoryId: 10,
+      colors: {
+        black: "https://i.imgur.com/uC5OX5v.png"
+      }
     }
   ]
 };
