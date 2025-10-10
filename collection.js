@@ -652,6 +652,266 @@ const collection = {
       colors: {
         brownish: "https://i.imgur.com/dwJl7e5.png"
       }
+    },
+    {
+      id: 63,
+      name: "PHARAOH™| 14K Yellow Gold U-Link Design Necklace",
+      price: 6000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        gold: "https://i.imgur.com/1rrWHN1.png"
+      }
+    },
+    {
+      id: 64,
+      name: "PHARAOH™| 10k Illusion Diamond Tennis Necklace w/3.00ct Diamonds",
+      price: 10000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        white: "https://i.imgur.com/9fW827e.png"
+      }
+    },
+    {
+      id: 65,
+      name: "PHARAOH™| 10KY Diamond Solid Link Miami Cuban Chain w/45.05ct Diamonds",
+      price: 35000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        gold: "https://i.imgur.com/aevtACK.png"
+      }
+    },
+    {
+      id: 66,
+      name: "PHARAOH™| 10KR+W Diamond 3D Miami Cuban Chain w/42.65ct Diamonds",
+      price: 33000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        gold: "https://i.imgur.com/gbp3nUg.png"
+      }
+    },
+    {
+      id: 67,
+      name: "PHARAOH™| 14KW 10KY Diamond Baguette Gucci Link w/60.50CTW Diamonds",
+      price: 58000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        white: "https://i.imgur.com/m3cwvrp.png"
+      }
+    },
+    {
+      id: 68,
+      name: "PHARAOH™| 1KG Miami Cuban VS Diamond Chain",
+      price: 150000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        gold: "https://i.imgur.com/TYYvE9z.png"
+      }
+    },
+    {
+      id: 69,
+      name: "PHARAOH™| 14k White Gold SI2/VS2 Diamond Tennis Chain with Cross Pendant",
+      price: 13000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        white: "https://i.imgur.com/tkqUHlI.png"
+      }
+    },
+    {
+      id: 70,
+      name: "PHARAOH™| 14KR Herbal Medecine Leaf Necklace w/0.15CTW Diamond",
+      price: 10000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        rose: "https://i.imgur.com/mG7xzoh.png"
+      }
+    },
+    {
+      id: 71,
+      name: "PHARAOH™| 14Kw Star Of David Necklace w/0.20CTW Diamond",
+      price: 10000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        white: "https://i.imgur.com/5z44iLX.png"
+      }
+    },
+    {
+      id: 72,
+      name: "PHARAOH™| 14K Gold Tag with Mirror Chain",
+      price: 8000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        gold: "https://i.imgur.com/5gGjb8q.png"
+      }
+    },
+    {
+      id: 73,
+      name: "PHARAOH™| 18K Gold 11.5mm White Pave Lite Miami Cuban",
+      price: 45000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        gold: "https://i.imgur.com/rXVfx68.png"
+      }
+    },
+    {
+      id: 74,
+      name: "PHARAOH™| 14K Gold Tube Cross Necklace",
+      price: 10000,
+      gender: "unisex",
+      categoryId: 1,
+      colors: {
+        gold: "https://i.imgur.com/bMyHrEq.png"
+      }
+    },
+    {
+      id: 75,
+      name: "PHARAOH™| 14K Tri-color Gold Rosary Inspired Necklace",
+      price: 8000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        gold: "https://i.imgur.com/1KsSOMt.png"
+      }
+    },
+    {
+      id: 76,
+      name: "PHARAOH™| 14k Yellow Gold 0.50cttw Jesus Head Pendant and 3mm Solid Rope Chain",
+      price: 12000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        gold: "https://i.imgur.com/HPUqazS.png"
+      }
+    },
+    {
+      id: 77,
+      name: "PHARAOH™| 14k White Gold Link Necklace with Handcuff Lock",
+      price: 8000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        white: "https://i.imgur.com/JRXslxu.png"
+      }
+    },
+    {
+      id: 78,
+      name: "PHARAOH™| 10KY 1.25CTW Diamond 1.25ct Spider Pendant And 24” Rope Chain Bundle",
+      price: 15000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        gold: "https://i.imgur.com/vpWho7B.png"
+      }
+    },
+    {
+      id: 79,
+      name: "PHARAOH™| 18Kt Yellow Gold  Fleur De Lis Pendant Chain w/0.45ct Diamonds",
+      price: 19000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        gold: "https://i.imgur.com/z6ydu4G.png"
+      }
+    },
+    {
+      id: 80,
+      name: "PHARAOH™| 18k Yellow Gold 4.56ctw Majestic Prancing Horse Pendant",
+      price: 23000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        gold: "https://i.imgur.com/JYlLp1g.png"
+      }
+    },
+    {
+      id: 81,
+      name: "PHARAOH™| 18k Yellow Gold 2.65ctw Diamond Mario w/ Guns Pendant",
+      price: 15000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        gold: "https://i.imgur.com/0UTxNDZ.png"
+      }
+    },
+    {
+      id: 82,
+      name: "PHARAOH™| 14k Yellow Gold Gutta Lyfe Pendant - Large",
+      price: 12000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        gold: "https://i.imgur.com/dukYDe9.png"
+      }
+    },
+    {
+      id: 83,
+      name: "PHARAOH™| 14k Yellow Gold Skull King With Enamel Detailing",
+      price: 12000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        gold: "https://i.imgur.com/3igroXv.png"
+      }
+    },
+    {
+      id: 84,
+      name: "PHARAOH™| 14KY+W 1.35CTW Diamond Herbal Hemp Medicine Leaf 3D ",
+      price: 8000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        gold: "https://i.imgur.com/NSGT1yu.png"
+      }
+    },
+    {
+      id: 85,
+      name: "PHARAOH™| 14k Praying Pendant and Solid Chain Combo",
+      price: 17000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        gold: "https://i.imgur.com/kF9EvJm.png"
+      }
+    },
+    {
+      id: 86,
+      name: "PHARAOH™| 14K 0.54-0.57CT D-MILLIONAIRE CHARM",
+      price: 16000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        platinum: "https://i.imgur.com/CYmtx2t.png"
+      }
+    },
+    {
+      id: 87,
+      name: "PHARAOH™| 18K White Gold 2.03ct D-NBA-NEVER BROKE AGAIN",
+      price: 25000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        gold: "https://i.imgur.com/CxLMCcO.png"
+      }
+    },
+    {
+      id: 88,
+      name: "PHARAOH™| 18K Yellow-gold Shqiponja Dykrenare - Necklace",
+      price: 10000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        gold: "https://i.imgur.com/zJ7YdHr.png"
+      }
     }
   ]
 };
