@@ -612,6 +612,46 @@ const collection = {
       colors: {
         platinum: "https://i.imgur.com/9F9nE1t.png"
       }
+    },
+    {
+      id: 59,
+      name: "PHARAOH™| Sitting Buddha Pendant - High-Grade 316L Stainless Steel",
+      price: 8000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        silver: "https://i.imgur.com/aucgpLd.png"
+      }
+    },
+    {
+      id: 60,
+      name: "PHARAOH™| 14K Gold High-End Green Jade Buddha Pendent w/Swarovski Crystals",
+      price: 8500,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        green: "https://i.imgur.com/Y873old.png"
+      }
+    },
+    {
+      id: 61,
+      name: "PHARAOH™| 14K Gold High-End Black Jade Buddha Pendent w/Swarovski Crystals",
+      price: 8500,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        black: "https://i.imgur.com/loeGajG.png"
+      }
+    },
+    {
+      id: 62,
+      name: "PHARAOH™| 14K Gold High-End Brown Jade Buddha Pendent w/S1 Diamonds",
+      price: 8500,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        brownish: "https://i.imgur.com/dwJl7e5.png"
+      }
     }
   ]
 };
