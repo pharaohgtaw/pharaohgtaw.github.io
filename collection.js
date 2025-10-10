@@ -1302,6 +1302,176 @@ const collection = {
       colors: {
         brownish: "https://i.imgur.com/g4LTLC9.png"
       }
+    },
+    {
+      id: 128,
+      name: "PHARAOH™| 18K Blue, Yellow and White Diamond Invisible Grill",
+      price: 25000,
+      gender: "unisex",
+      categoryId: 8,
+      colors: {
+        white: "https://i.imgur.com/bScTMz7.png"
+      }
+    },
+    {
+      id: 129,
+      name: "PHARAOH™| 18K Flawless Princess Cut Diamond Invisible Set Grillz",
+      price: 25000,
+      gender: "unisex",
+      categoryId: 8,
+      colors: {
+        gold: "https://i.imgur.com/cBGSMis.png"
+      }
+    },
+    {
+      id: 130,
+      name: "PHARAOH™| 18K Blue and Yellow Checkerdboard Diamond Invisible Grill",
+      price: 27000,
+      gender: "unisex",
+      categoryId: 8,
+      colors: {
+        rose: "https://i.imgur.com/1YKEPNy.png"
+      }
+    },
+    {
+      id: 131,
+      name: "PHARAOH™| 10K Flawless Invisible Set Diamond Grillz",
+      price: 19000,
+      gender: "unisex",
+      categoryId: 8,
+      colors: {
+        white: "https://i.imgur.com/S0a5Vli.png"
+      }
+    },
+    {
+      id: 132,
+      name: "PHARAOH™| Blue Princess Cut Diamond Horizontal Invisible VS Diamond Grills",
+      price: 23000,
+      gender: "unisex",
+      categoryId: 8,
+      colors: {
+        white: "https://i.imgur.com/eT82XHh.png"
+      }
+    },
+    {
+      id: 133,
+      name: "PHARAOH™| Flawless Blue Diamond Invisible Setting Grillz",
+      price: 13000,
+      gender: "unisex",
+      categoryId: 8,
+      colors: {
+        gold: "https://i.imgur.com/w93Cxxh.png"
+      }
+    },
+    {
+      id: 134,
+      name: "PHARAOH™| 18k White Gold Baguette VS Diamond Grills",
+      price: 25000,
+      gender: "unisex",
+      categoryId: 8,
+      colors: {
+        white: "https://i.imgur.com/AxU5zyP.png"
+      }
+    },
+    {
+      id: 135,
+      name: "PHARAOH™| 18k Honeycomb Prong/Invisible Set Diamond Grill",
+      price: 85000,
+      gender: "unisex",
+      categoryId: 8,
+      colors: {
+        white: "https://i.imgur.com/gkBRFl7.png"
+      }
+    },
+    {
+      id: 136,
+      name: "PHARAOH™| 18K Emerald VVS Diamonds and Emerald Shaped Purple Amethyst",
+      price: 100000,
+      gender: "unisex",
+      categoryId: 8,
+      colors: {
+        rose: "https://i.imgur.com/R8QIbUP.png"
+      }
+    },
+    {
+      id: 137,
+      name: "PHARAOH™| 18K Honeycomb Prong/Pink Emerald cut w/VVS  Diamonds",
+      price: 90000,
+      gender: "unisex",
+      categoryId: 8,
+      colors: {
+        white: "https://i.imgur.com/G3MHgke.png"
+      }
+    },
+    {
+      id: 138,
+      name: "PHARAOH™|   Viper 18K White Gold Necklace w/VVS Diamonds",
+      price: 20000,
+      gender: "female",
+      categoryId: 9,
+      colors: {
+        white: "https://i.imgur.com/x5wmcxh.png"
+      }
+    },
+    {
+      id: 139,
+      name: "PHARAOH™|   Sunlight 18K Yellow Gold Radiant Diamond Necklace",
+      price: 16000,
+      gender: "female",
+      categoryId: 9,
+      colors: {
+        rose: "https://i.imgur.com/tzybczX.png"
+      }
+    },
+    {
+      id: 140,
+      name: "PHARAOH™| Sterling Silver, Double Heart CZ Necklace - Gold Plated",
+      price: 7000,
+      gender: "female",
+      categoryId: 9,
+      colors: {
+        gold: "https://i.imgur.com/AAHvwJ2.png"
+      }
+    },
+    {
+      id: 141,
+      name: "PHARAOH™| Sterling Silver, Heart CZ Tennis Necklace - Ruby",
+      price: 7000,
+      gender: "female",
+      categoryId: 9,
+      colors: {
+        white: "https://i.imgur.com/kznRNYH.png"
+      }
+    },
+    {
+      id: 142,
+      name: "PHARAOH™| 14K Gold Music Notes Necklace",
+      price: 7000,
+      gender: "female",
+      categoryId: 9,
+      colors: {
+        gold: "https://i.imgur.com/vYfPkJi.png"
+      }
+    },
+    {
+      id: 143,
+      name: "PHARAOH™| 10K Gold Multi Layered Love Necklace",
+      price: 5000,
+      gender: "female",
+      categoryId: 9,
+      colors: {
+        gold: "https://i.imgur.com/TnkhhSW.png"
+      }
+    },
+    {
+      id: 144,
+      name: "PHARAOH™| 14K Cubic Zirconia Star Necklace",
+      price: 7000,
+      gender: "female",
+      categoryId: 9,
+      colors: {
+        gold: "https://i.imgur.com/UzlWR9C.png"
+      }
     }
   ]
 };
