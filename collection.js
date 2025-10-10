@@ -768,7 +768,7 @@ const collection = {
       name: "PHARAOH™| 14K Gold Tube Cross Necklace",
       price: 10000,
       gender: "unisex",
-      categoryId: 1,
+      categoryId: 4,
       colors: {
         gold: "https://i.imgur.com/bMyHrEq.png"
       }
@@ -911,6 +911,396 @@ const collection = {
       categoryId: 4,
       colors: {
         gold: "https://i.imgur.com/zJ7YdHr.png"
+      }
+    },
+    {
+      id: 89,
+      name: "PHARAOH™| 18k White Gold Cluster Diamond Custom Earrings w/VS Diamond",
+      price: 15000,
+      gender: "male",
+      categoryId: 6,
+      colors: {
+        white: "https://i.imgur.com/sImBJrA.png"
+      }
+    },
+    {
+      id: 90,
+      name: "PHARAOH™| 18k Gold Cluster Diamond Custom Earrings w/VS Diamond",
+      price: 15000,
+      gender: "male",
+      categoryId: 6,
+      colors: {
+        gold: "https://i.imgur.com/I5I3kHa.png"
+      }
+    },
+    {
+      id: 91,
+      name: "PHARAOH™| 14k White Gold Cluster Diamond Earrings w/VS Diamond ",
+      price: 10000,
+      gender: "male",
+      categoryId: 6,
+      colors: {
+        white: "https://i.imgur.com/qKMPCn5.png"
+      }
+    },
+    {
+      id: 92,
+      name: "PHARAOH™| 14k Gold Cluster Diamond Custom Earrings w/2.2CTTW Diamond",
+      price: 9000,
+      gender: "male",
+      categoryId: 6,
+      colors: {
+        white: "https://i.imgur.com/CH1EMG4.png"
+      }
+    },
+    {
+      id: 93,
+      name: "PHARAOH™| 14k Rose Gold Square Baguette CZ Stud Earrings",
+      price: 7000,
+      gender: "male",
+      categoryId: 6,
+      colors: {
+        rose: "https://i.imgur.com/xN0fRCu.png"
+      }
+    },
+    {
+      id: 94,
+      name: "PHARAOH™| 18k Gold D-Earrings",
+      price: 13000,
+      gender: "male",
+      categoryId: 6,
+      colors: {
+        gold: "https://i.imgur.com/WHaFW2F.png"
+      }
+    },
+    {
+      id: 95,
+      name: "PHARAOH™| 18k Yellow Gold and 0.25ct Diamond Herbal Leaf Earrings",
+      price: 12000,
+      gender: "male",
+      categoryId: 6,
+      colors: {
+        gold: "https://i.imgur.com/jPSSwch.png"
+      }
+    },
+    {
+      id: 96,
+      name: "PHARAOH™ | Faune et Flore de Cartier Paved Earrings",
+      price: 120000,
+      gender: "female",
+      categoryId: 6,
+      colors: {
+        gold: "https://i.ibb.co/vvhQmppY/image1.png"
+      }
+    },
+    {
+      id: 97,
+      name: "PHARAOH™ | Panthère de Cartier Earrings",
+      price: 45000,
+      gender: "female",
+      categoryId: 6,
+      colors: {
+        gold: "https://i.ibb.co/qMMwT5rt/image2.png"
+      }
+    },
+    {
+      id: 98,
+      name: "PHARAOH™ | Estate Tiffany 18K Yellow Gold and Platinum Diamond Spray Earrings",
+      price: 32000,
+      gender: "female",
+      categoryId: 6,
+      colors: {
+        gold: "https://i.ibb.co/qFPyHccr/image3.png"
+      }
+    },
+    {
+      id: 99,
+      name: "PHARAOH™ | Sixteen Stone Hoop Earrings by Tiffany",
+      price: 18000,
+      gender: "female",
+      categoryId: 6,
+      colors: {
+        gold: "https://i.ibb.co/Pzr7BGbj/image4.png"
+      }
+    },
+    {
+      id: 100,
+      name: "PHARAOH™| 18k Rose Gold Divas’ Dream Earrings w/ Round Brilliant-Cut Diamonds",
+      price: 12000,
+      gender: "female",
+      categoryId: 6,
+      colors: {
+        rose: "https://i.imgur.com/G90rj05.png"
+      }
+    },
+    {
+      id: 101,
+      name: "PHARAOH™| 18k White Gold Hoop Earrings with Rings",
+      price: 6000,
+      gender: "female",
+      categoryId: 6,
+      colors: {
+        white: "https://i.imgur.com/xdMsVHd.png"
+      }
+    },
+    {
+      id: 102,
+      name: "PHARAOH™| 18k White Gold Devil Heart Studs",
+      price: 8000,
+      gender: "female",
+      categoryId: 6,
+      colors: {
+        white: "https://i.imgur.com/YnaTo8H.png"
+      }
+    },
+    {
+      id: 103,
+      name: "PHARAOH™|  18k White Gold Roses Ghotica",
+      price: 9000,
+      gender: "female",
+      categoryId: 6,
+      colors: {
+        white: "https://i.imgur.com/MaoKFBi.png"
+      }
+    },
+    {
+      id: 104,
+      name: "PHARAOH™|  18k White Gold Pentagram Hoops",
+      price: 5000,
+      gender: "female",
+      categoryId: 6,
+      colors: {
+        white: "https://i.imgur.com/zJGQjyj.png"
+      }
+    },
+    {
+      id: 105,
+      name: "PHARAOH™| 18k White Gold Sky at night w/crystal glass stone in an intricately",
+      price: 13000,
+      gender: "female",
+      categoryId: 6,
+      colors: {
+        white: "https://i.imgur.com/aY05XLQ.png"
+      }
+    },
+    {
+      id: 106,
+      name: "PHARAOH™| 18k White Gold Purple Streak w/violet and grey crystal glass stones in intricate",
+      price: 13000,
+      gender: "female",
+      categoryId: 6,
+      colors: {
+        white: "https://i.imgur.com/5TbBYIR.png"
+      }
+    },
+    {
+      id: 107,
+      name: "PHARAOH™| 18k White Gold Forest Green w/crystal-glass stones in a richly detailed design",
+      price: 13000,
+      gender: "female",
+      categoryId: 6,
+      colors: {
+        white: "https://i.imgur.com/Bgompwt.png"
+      }
+    },
+    {
+      id: 108,
+      name: "PHARAOH™| Big Inside Out Hoop VS Diamond Earrings 14k Solid Gold 12.00ctw",
+      price: 11500,
+      gender: "female",
+      categoryId: 6,
+      colors: {
+        white: "https://i.imgur.com/EIlYJN8.png"
+      }
+    },
+    {
+      id: 109,
+      name: "PHARAOH™| 18k Yellow Gold Onyx Rose de Noël Earrings",
+      price: 25000,
+      gender: "female",
+      categoryId: 6,
+      colors: {
+        black: "https://i.imgur.com/qOf0bHi.png"
+      }
+    },
+    {
+      id: 110,
+      name: "PHARAOH™| 18k Solid White Gold Diamond Solitaire Stud Earrings 15.55 Ctw",
+      price: 500000,
+      gender: "unisex",
+      categoryId: 6,
+      colors: {
+        white: "https://i.imgur.com/0R8Yi82.png"
+      }
+    },
+    {
+      id: 111,
+      name: "PHARAOH™| 18k Gold Earrings w/VS Diamond",
+      price: 12000,
+      gender: "female",
+      categoryId: 6,
+      colors: {
+        gold: "https://i.imgur.com/JqwiJKL.png"
+      }
+    },
+    {
+      id: 112,
+      name: "PHARAOH™ | Cartier Glasses Iced Out Diamonds Rimless - Pink Fade Lens - 5.50ctw",
+      price: 28000,
+      gender: "male",
+      categoryId: 7,
+      colors: {
+        gold: "https://i.imgur.com/C4wROuT.png"
+      }
+    },
+    {
+      id: 113,
+      name: "PHARAOH™ | Première de Cartier Sunglasses w/ Smooth Golden-Finish, Grey lenses",
+      price: 3700,
+      gender: "male",
+      categoryId: 7,
+      colors: {
+        gold: "https://i.imgur.com/Sva4Eqh.png"
+      }
+    },
+    {
+      id: 114,
+      name: "PHARAOH™ | Ray-Ban - Justin 622/T3 55",
+      price: 2500,
+      gender: "male",
+      categoryId: 7,
+      colors: {
+        black: "https://i.imgur.com/G2p1PDq.png"
+      }
+    },
+    {
+      id: 115,
+      name: "PHARAOH™ | Gucci - GG1703S 002 55",
+      price: 5000,
+      gender: "male",
+      categoryId: 7,
+      colors: {
+        white: "https://i.imgur.com/5VuOWmE.png"
+      }
+    },
+    {
+      id: 116,
+      name: "PHARAOH™ | Gucci - GG1539S 001 55",
+      price: 5000,
+      gender: "male",
+      categoryId: 7,
+      colors: {
+        black: "https://i.imgur.com/eEHB73K.png"
+      }
+    },
+    {
+      id: 117,
+      name: "PHARAOH™ | Smart Glasses AR w/12 MP ultra-wide-angle camera and 5 built-in microphones",
+      price: 15000,
+      gender: "unisex",
+      categoryId: 7,
+      colors: {
+        black: "https://i.imgur.com/lWc8LIt.png"
+      }
+    },
+    {
+      id: 118,
+      name: "PHARAOH™ | Versace VE2274G Limited Edition Yellow Gold Sunglasses",
+      price: 18000,
+      gender: "female",
+      categoryId: 7,
+      colors: {
+        gold: "https://i.ibb.co/YvdPgvM/aa.png"
+      }
+    },
+    {
+      id: 119,
+      name: "PHARAOH™ | Burberry BE4383 Made in Italy Runway Black and Grey Sunglasses",
+      price: 15000,
+      gender: "female",
+      categoryId: 7,
+      colors: {
+        black: "https://i.ibb.co/fVKhH4cF/bb.png"
+      }
+    },
+    {
+      id: 120,
+      name: "PHARAOH™ | Tom Ford FT1124 Black Shiny Ski Sunglasses",
+      price: 12000,
+      gender: "female",
+      categoryId: 7,
+      colors: {
+        black: "https://i.ibb.co/GfbZyhpk/0-TR001755-1330-L1-030-A-Photoroom-1.png"
+      }
+    },
+    {
+      id: 121,
+      name: "PHARAOH™ | Prada - PR 17WS 2AU8C1 49",
+      price: 3000,
+      gender: "female",
+      categoryId: 7,
+      colors: {
+        brownish: "https://i.imgur.com/VjwgCjk.png"
+      }
+    },
+    {
+      id: 122,
+      name: "PHARAOH™ | Prada - PR 15WS 01R0A6 5",
+      price: 3000,
+      gender: "female",
+      categoryId: 7,
+      colors: {
+        brownish: "https://i.imgur.com/8mWANS3.png"
+      }
+    },
+    {
+      id: 123,
+      name: "PHARAOH™ | Prada - PR 17WS 1425S0 49",
+      price: 3000,
+      gender: "female",
+      categoryId: 7,
+      colors: {
+        white: "https://i.imgur.com/4pBTDAA.png"
+      }
+    },
+    {
+      id: 124,
+      name: "PHARAOH™ | Prada - PR 06YS 09Q5S0 53",
+      price: 3500,
+      gender: "female",
+      categoryId: 7,
+      colors: {
+        black: "https://i.imgur.com/tw275bW.png"
+      }
+    },
+    {
+      id: 125,
+      name: "PHARAOH™ | Chanel - Eyeglasses",
+      price: 4500,
+      gender: "female",
+      categoryId: 7,
+      colors: {
+        black: "https://i.imgur.com/gnlOvMp.png"
+      }
+    },
+    {
+      id: 126,
+      name: "PHARAOH™ | Versace - VE4425U GB1/87 54",
+      price: 5000,
+      gender: "female",
+      categoryId: 7,
+      colors: {
+        black: "https://i.imgur.com/SuRWaEr.png"
+      }
+    },
+    {
+      id: 127,
+      name: "PHARAOH™ | Dolce&Gabbana - DG2279 02/13 60",
+      price: 6000,
+      gender: "female",
+      categoryId: 7,
+      colors: {
+        brownish: "https://i.imgur.com/g4LTLC9.png"
       }
     }
   ]
