@@ -25,7 +25,8 @@ const collection = {
     { id: 9, name: "Necklaces", color: "#1a1a1a" },
     { id: 10, name: "Rings", color: "#1a1a1a" },
     { id: 11, name: "Watches", color: "#1a1a1a" },
-    { id: 12, name: "Perfumes", color: "#1a1a1a" }
+    { id: 12, name: "Perfumes", color: "#1a1a1a" },
+    { id: 13, name: "Pets", color: "#1a1a1a" }
   ],
 
   // ============================================
@@ -2111,6 +2112,203 @@ const collection = {
       categoryId: 12,
       colors: {
         gold: "https://i.imgur.com/29RdIBB.png"
+      }
+    },
+    {
+      id: 209,
+      name: "PHARAOH™| Louis Vuitton - Discovery PM Eclipse",
+      price: 9000,
+      gender: "male",
+      categoryId: 1,
+      colors: {
+        black: "https://i.imgur.com/G0lPRGx.png"
+      }
+    },
+    {
+      id: 210,
+      name: "PHARAOH™| Louis Vuitton - Keepall Bandouliere Monogram Eclipse 55",
+      price: 11000,
+      gender: "male",
+      categoryId: 1,
+      colors: {
+        black: "https://i.imgur.com/G70OwRM.png"
+      }
+    },
+    {
+      id: 211,
+      name: "PHARAOH™| Christian Dior - Lady Dior bag",
+      price: 11000,
+      gender: "female",
+      categoryId: 1,
+      colors: {
+        black: "https://i.imgur.com/qjiC24o.png"
+      }
+    },
+    {
+      id: 212,
+      name: "PHARAOH™| Louis Vuitton - Bolso Capucines Nano",
+      price: 12000,
+      gender: "female",
+      categoryId: 1,
+      colors: {
+        black: "https://i.imgur.com/BTAIsCF.png"
+      }
+    },
+    {
+      id: 213,
+      name: "PHARAOH™| Diesel - Hand Bag",
+      price: 9000,
+      gender: "female",
+      categoryId: 1,
+      colors: {
+        black: "https://i.imgur.com/1wmz3oL.png",
+        white: "https://i.imgur.com/suMW6oX.png",
+        blue: "https://i.imgur.com/Uflsu0K.png",
+        pink: "https://i.imgur.com/NBPdxdn.png"
+      }
+    },
+    {
+      id: 214,
+      name: "PHARAOH™| Yves Saint Laurent Cassandra Mini Top Handle Bag",
+      price: 11000,
+      gender: "female",
+      categoryId: 1,
+      colors: {
+        black: "https://i.imgur.com/0NkJ8lG.png"
+      }
+    },
+    {
+      id: 215,
+      name: "PHARAOH™| Yves Saint Laurent Black Leather Bag",
+      price: 8000,
+      gender: "female",
+      categoryId: 1,
+      colors: {
+        black: "https://i.imgur.com/KmnYxci.png"
+      }
+    },
+    {
+      id: 216,
+      name: "PHARAOH™| 18k Yellow Gold - 4x2 Link Bracelet",
+      price: 18000,
+      gender: "male",
+      categoryId: 3,
+      colors: {
+        gold: "https://i.imgur.com/PRKrNLa.png"
+      }
+    },
+    {
+      id: 217,
+      name: "PHARAOH™| Art Deco 5.75ct Old European Diamond Bracelet, circa 1920s. Set in Platinum.",
+      price: 40000,
+      gender: "male",
+      categoryId: 3,
+      colors: {
+        platinum: "https://i.imgur.com/vPcDkIh.png"
+      }
+    },
+    {
+      id: 218,
+      name: "PHARAOH™| 24K Gold VVS Diamond Cuban Chain w/ Pendant AK47",
+      price: 40000,
+      gender: "unisex",
+      categoryId: 4,
+      colors: {
+        gold: "https://i.imgur.com/IZPE1aC.png",
+        white: "https://i.imgur.com/IZmqJIy.png"
+      }
+    },
+    {
+      id: 219,
+      name: "PHARAOH™| The Soleil Charm Iced Out - Gold 24K w/Premium Colored Zircons",
+      price: 200000,
+      gender: "unisex",
+      categoryId: 5,
+      colors: {
+        gold: "https://i.imgur.com/UAj3psO.png"
+      }
+    },
+    {
+      id: 220,
+      name: "PHARAOH™| Gucci - GG nylon pet raincoat",
+      price: 7000,
+      gender: "unisex",
+      categoryId: 13,
+      colors: {
+        blue: "https://i.imgur.com/Z4LX3PS.png",
+        red: "https://i.imgur.com/gE1zLUB.png"
+      }
+    },
+    {
+      id: 221,
+      name: "PHARAOH™| Gucci - GG nylon pet bed",
+      price: 5000,
+      gender: "unisex",
+      categoryId: 13,
+      colors: {
+        red: "https://i.imgur.com/23iNWWA.png"
+      }
+    },
+    {
+      id: 222,
+      name: "PHARAOH™| Gucci - GG monogram pet carrier shopping bag",
+      price: 7000,
+      gender: "unisex",
+      categoryId: 13,
+      colors: {
+        brownish: "https://i.imgur.com/eWheG85.png"
+      }
+    },
+    {
+      id: 223,
+      name: "PHARAOH™| Gucci - Pet collar",
+      price: 2000,
+      gender: "unisex",
+      categoryId: 13,
+      colors: {
+        brownish: "https://i.imgur.com/wshJ2LL.png"
+      }
+    },
+    {
+      id: 224,
+      name: "PHARAOH™| Gucci - Herbarium-print pet bowl",
+      price: 2000,
+      gender: "unisex",
+      categoryId: 13,
+      colors: {
+        white: "https://i.imgur.com/Frn9fzt.png"
+      }
+    },
+    {
+      id: 225,
+      name: "PHARAOH™| Gucci - Leash",
+      price: 2000,
+      gender: "unisex",
+      categoryId: 13,
+      colors: {
+        pink: "https://i.imgur.com/Vl743lA.png",
+        blue: "https://i.imgur.com/lSsgu9X.png",
+        brownish: "https://i.imgur.com/770C9xo.png"
+      }
+    },
+    {
+      id: 226,
+      name: "PHARAOH™| Louis Vuitton - Dog/Car Harness",
+      price: 4500,
+      gender: "unisex",
+      categoryId: 13,
+      colors: {
+        brownish: "https://i.imgur.com/JULVdbI.png"
+      }
+    },
+    {
+      id: 227,
+      name: "PHARAOH™| Louis Vuitton - PM Beanie",
+      price: 4000,
+      gender: "unisex",
+      categoryId: 13,
+      colors: {
+        black: "https://i.imgur.com/P3voSz4.png"
       }
     }
   ]
