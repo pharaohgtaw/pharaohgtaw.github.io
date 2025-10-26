@@ -2420,6 +2420,98 @@ const collection = {
       colors: {
         gold: "https://i.imgur.com/h27aGWK.png"
       }
+    },
+    {
+      id: 239,
+      name: "PHARAOH™| Albanian Eagle Pendant - 18K Yellow Gold w/ Black Diamond Pavé",
+      price: 30000,
+      gender: "unisex",
+      categoryId: 5,
+      colors: {
+        gold: "https://i.ibb.co/pBFNVrsh/collana-Photoroom.png"
+      }
+    },
+    {
+      id: 240,
+      name: "PHARAOH™| The Regal Eye Pendant - 18K Yellow Gold Pendant, fully set with Natural VVS Diamonds and a central Solitaire",
+      price: 32000,
+      gender: "unisex",
+      categoryId: 9,
+      colors: {
+        gold: "https://i.ibb.co/60TDRbL4/Gemini-Generated-Image-9ixkr99ixkr99ixk-Photoroom.png"
+      }
+    },
+    {
+      id: 241,
+      name: "PHARAOH™| The Dynasty Signet Ring - 18K Solid Gold",
+      price: 10000,
+      gender: "unisex",
+      categoryId: 10,
+      colors: {
+        gold: "https://i.ibb.co/V0db9B7G/Gemini-Generated-Image-p488jlp488jlp488-Photoroom.png"
+      }
+    },
+    {
+      id: 242,
+      name: "PHARAOH™| Legacy Timepiece - 18K Solid Gold w/ Black Alligator Strap",
+      price: 35000,
+      gender: "unisex",
+      categoryId: 11,
+      colors: {
+        gold: "https://i.ibb.co/wxzY7tm/Gemini-Generated-Image-8vi4ds8vi4ds8vi4-Photoroom.png"
+      }
+    },
+    {
+      id: 243,
+      name: "PHARAOH™| VisionCam - Smart Recording Eyewear",
+      price: 8000,
+      gender: "unisex",
+      categoryId: 7,
+      colors: {
+        black: "https://i.ibb.co/Z60d1T6T/enhance-vh731xzb931xfk3rrzik-Photoroom.png"
+      }
+    },
+    {
+      id: 244,
+      name: "PHARAOH™| The Scanderbeg King | Custom 18K Gold w/ Princess-Cut Diamonds",
+      price: 40000,
+      gender: "unisex",
+      categoryId: 11,
+      colors: {
+        red: "https://i.ibb.co/LDJXDCGJ/enhance-9yofcowvvhk2zbvwrbnd-Photoroom.png",
+        black: "https://i.ibb.co/MDmyGDhR/enhance-xhv0vnpalosg259u30yp-Photoroom.png"
+      }
+    },
+    {
+      id: 245,
+      name: "PHARAOH™| Eye of Horus - 18K Solid Gold w/ 2.5 Carats of VVS Diamonds",
+      price: 50000,
+      gender: "unisex",
+      categoryId: 5,
+      colors: {
+        gold: "https://i.imgur.com/h27aGWK.png"
+      }
+    },
+    {
+      id: 246,
+      name: "PHARAOH™| Legacy Timepiece - 18K Solid Gold w/ Black Alligator Strap",
+      price: 35000,
+      gender: "unisex",
+      categoryId: 5,
+      colors: {
+        black: "https://i.ibb.co/wxzY7tm/Gemini-Generated-Image-8vi4ds8vi4ds8vi4-Photoroom.png"
+      }
+    },
+    {
+      id: 247,
+      name: "PHARAOH™| The Scanderbeg King | Custom 18K Gold w/ Princess-Cut Diamonds",
+      price: 40000,
+      gender: "unisex",
+      categoryId: 5,
+      colors: {
+        red: "https://i.ibb.co/LDJXDCGJ/enhance-9yofcowvvhk2zbvwrbnd-Photoroom.png",
+        black: "https://i.ibb.co/MDmyGDhR/enhance-xhv0vnpalosg259u30yp-Photoroom.png"
+      }
     }
   ]
 };
