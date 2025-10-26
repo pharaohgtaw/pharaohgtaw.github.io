@@ -2310,6 +2310,116 @@ const collection = {
       colors: {
         black: "https://i.imgur.com/P3voSz4.png"
       }
+    },
+    {
+      id: 228,
+      name: "PHARAOH™| 14K White Gold Cross w/black zircons",
+      price: 7000,
+      gender: "unisex",
+      categoryId: 9,
+      colors: {
+        white: "https://i.imgur.com/505dmAB.png"
+      }
+    },
+    {
+      id: 229,
+      name: "PHARAOH™| Necklace rolled with pendant 18k yellow gold and hydrothermal coloured stones",
+      price: 8000,
+      gender: "female",
+      categoryId: 9,
+      colors: {
+        gold: "https://i.imgur.com/qgFWosg.png"
+      }
+    },
+    {
+      id: 230,
+      name: "PHARAOH™| Frivole Pendant - 18K white gold w/2.35ct diamond ",
+      price: 15000,
+      gender: "female",
+      categoryId: 9,
+      colors: {
+        white: "https://i.imgur.com/Vwp7zoo.png"
+      }
+    },
+    {
+      id: 231,
+      name: "PHARAOH™| Bouton d’or necklace - 18K rose gold and 18K white gold w/ 5.55ct diamond",
+      price: 23000,
+      gender: "female",
+      categoryId: 9,
+      colors: {
+        rose: "https://i.imgur.com/xRRQJ3T.png"
+      }
+    },
+    {
+      id: 232,
+      name: "PHARAOH™| Talisman Locket - 18K Yellow Gold w/5.33cts VS+ Diamond",
+      price: 38800,
+      gender: "female",
+      categoryId: 9,
+      colors: {
+        gold: "https://i.imgur.com/0k6pwfT.png"
+      }
+    },
+    {
+      id: 233,
+      name: "PHARAOH™| Enchanted Lotus Pendant - 18K White Gold w/2.96cts VS+ Diamond",
+      price: 32200,
+      gender: "female",
+      categoryId: 9,
+      colors: {
+        white: "https://i.imgur.com/Odfqy3a.png"
+      }
+    },
+    {
+      id: 234,
+      name: "PHARAOH™| Arpeggia Line Necklace - 18K White Gold w/1.66cts VS+ Diamond",
+      price: 18600,
+      gender: "female",
+      categoryId: 9,
+      colors: {
+        white: "https://i.imgur.com/NIJpt6R.png"
+      }
+    },
+    {
+      id: 235,
+      name: "PHARAOH™| DB Classic Five Line Pendant - 18K White Gold w/0.73ct",
+      price: 12000,
+      gender: "female",
+      categoryId: 9,
+      colors: {
+        white: "https://i.imgur.com/uRvtFCJ.png"
+      }
+    },
+    {
+      id: 236,
+      name: "PHARAOH™| DB Classic Round Brilliant Diamond Pendant - 18K Rose Gold ",
+      price: 16200,
+      gender: "female",
+      categoryId: 9,
+      colors: {
+        rose: "https://i.imgur.com/RgunibW.png"
+      }
+    },
+    {
+      id: 237,
+      name: "PHARAOH™| Audemars Piguet Royal Oak 41mm Rose Gold Leather Strap",
+      price: 33000,
+      gender: "unisex",
+      categoryId: 11,
+      colors: {
+        gold: "https://i.imgur.com/rX0Ei3D.png"
+      }
+    },
+    {
+      id: 238,
+      name: "PHARAOH™| Eye of Horus - 18K Solid Gold w/ 2.5 Carats of VVS Diamonds",
+      price: 50000,
+      gender: "unisex",
+      categoryId: 11,
+      colors: {
+        gold: "https://i.imgur.com/h27aGWK.png"
+      }
     }
   ]
 };
