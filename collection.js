@@ -26,7 +26,8 @@ const collection = {
     { id: 10, name: "Rings", color: "#1a1a1a" },
     { id: 11, name: "Watches", color: "#1a1a1a" },
     { id: 12, name: "Perfumes", color: "#1a1a1a" },
-    { id: 13, name: "Pets", color: "#1a1a1a" }
+    { id: 13, name: "Pets", color: "#1a1a1a" },
+    { id: 14, name: "Labubu", color: "#1a1a1a" }
   ],
 
   // ============================================
@@ -2512,6 +2513,126 @@ const collection = {
         red: "https://i.ibb.co/LDJXDCGJ/enhance-9yofcowvvhk2zbvwrbnd-Photoroom.png",
         black: "https://i.ibb.co/MDmyGDhR/enhance-xhv0vnpalosg259u30yp-Photoroom.png"
       }
+    },
+    {
+      id: 248,
+      name: "PHARAOH™| Labubu - Pop Mart Official Figure Vinyl Plush Doll",
+      price: 12500,
+      gender: "unisex",
+      categoryId: 14,
+      colors: {
+        brownish: "https://i.ibb.co/zV59KkC9/a90-l-Photoroom.png"
+      }
+    },
+    {
+      id: 249,
+      name: "PHARAOH™| Labubu - Wings of Fortune - Vinyl Plush Hanging Card Pop Mart",
+      price: 12500,
+      gender: "unisex",
+      categoryId: 14,
+      colors: {
+        purple: "https://i.ibb.co/TD6GTrcS/themonsterslabubuwingsoffortunevinylplushhangingcardpopmartofficialfigure1-l-Photoroom.png"
+      }
+    },
+    {
+      id: 250,
+      name: "PHARAOH™| Labubu - Fall in Wild - Vinyl Plush Doll Pendant Pop Mart",
+      price: 12500,
+      gender: "unisex",
+      categoryId: 14,
+      colors: {
+        white: "https://i.ibb.co/Z6M5QMn1/themonsterslabubufallinwildvinylplushdollpendantpopmartofficialfigure1-l-Photoroom.png"
+      }
+    },
+    {
+      id: 251,
+      name: "PHARAOH™| Labubu - Big into Energy Luck - Pop Mart",
+      price: 12500,
+      gender: "unisex",
+      categoryId: 14,
+      colors: {
+        white: "https://i.ibb.co/yn3CM1Qb/labububigintoenergyluckviolapopmartofficialfigure1-l-Photoroom.png"
+      }
+    },
+    {
+      id: 252,
+      name: "PHARAOH™| Labubu - Let's Checkmate Series - Vinyl Plush Hanging Card Pop Mart",
+      price: 12500,
+      gender: "unisex",
+      categoryId: 14,
+      colors: {
+        gold: "https://i.ibb.co/zVVpCsVS/themonsterslabubuletscheckmateseriesvinylplushhangingcardpopmartofficialfigurelimitededition1-l-Phot.png"
+      }
+    },
+    {
+      id: 253,
+      name: "PHARAOH™| Labubu - Big into Energy Hope  - Pop Mart",
+      price: 12500,
+      gender: "unisex",
+      categoryId: 14,
+      colors: {
+        blue: "https://i.ibb.co/Z12bCZpv/labububigintoenergyhopeblupopmartofficialfigure1-l-Photoroom.png"
+      }
+    },
+    {
+      id: 254,
+      name: "PHARAOH™| Labubu - Plush Flower Bag – Pop Mart ",
+      price: 12500,
+      gender: "unisex",
+      categoryId: 14,
+      colors: {
+        brownish: "https://i.ibb.co/rKQ51d3H/zzzz0-l-Photoroom.png"
+      }
+    },
+    {
+      id: 255,
+      name: "PHARAOH™| Labubu - Let's Checkmate Series - Pop Mart Limited Edition",
+      price: 12500,
+      gender: "unisex",
+      categoryId: 14,
+      colors: {
+        brownish: "https://i.ibb.co/4Rcs4rxw/checkmateseriespopmartofficialfigurelimitededition-l-Photoroom.png"
+      }
+    },
+    {
+      id: 256,
+      name: "PHARAOH™| Labubu - THE MONSTERS - eCola Series",
+      price: 12500,
+      gender: "unisex",
+      categoryId: 14,
+      colors: {
+        white: "https://i.ibb.co/mr1gt5qW/cola-Photoroom.png"
+      }
+    },
+    {
+      id: 257,
+      name: "PHARAOH™| Labubu - Hirono Bear Vinyl Plush Doll - Pop Mart",
+      price: 12500,
+      gender: "unisex",
+      categoryId: 14,
+      colors: {
+        brownish: "https://i.ibb.co/rGZW9kBW/61-Zg-D-ts-TFL-AC-SX522-Photoroom.png"
+      }
+    },
+    {
+      id: 258,
+      name: "PHARAOH™| Labubu - Hirono Living Wild-Fight - Pop Mart",
+      price: 12500,
+      gender: "unisex",
+      categoryId: 14,
+      colors: {
+        brownish: "https://i.ibb.co/Ldrwd8hN/71-R6mn-HEgb-L-AC-SX522-Photoroom.png"
+      }
+    },
+    {
+      id: 259,
+      name: "PHARAOH™| Labubu - SKULLPANDA × HAMCUS  - Pop Mart",
+      price: 12500,
+      gender: "unisex",
+      categoryId: 14,
+      colors: {
+        black: "https://i.ibb.co/0yS9Bxzm/51yy-Ee-Pf-F-L-AC-SX522-Photoroom.png"
+      }
     }
   ]
 };
@@ -2530,5 +2651,6 @@ const colorHex = {
   rose: '#ff66cc',
   platinum: '#e5e4e2',
   brownish: '#35301c',
-  red: '#FF0000'
+  red: '#FF0000',
+  purple: '#800080'
 };
