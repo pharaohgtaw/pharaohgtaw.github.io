@@ -175,11 +175,11 @@ const collection = {
     {
       id: 14,
       name: "PHARAOH™| Chanel - Diamond Forever Diamond Forever | 334 diamonds, 18K white gold strap",
-      price: 261,
+      price: 261000,
       gender: "female",
       categoryId: 1,
       colors: {
-        white: "https://i.imgur.com/seIiGer.png"
+        white: "https://i.ibb.co/Q7PM4drb/image.png"
       }
     },
     {
@@ -209,7 +209,7 @@ const collection = {
       gender: "female",
       categoryId: 2,
       colors: {
-        platinum: "https://i.imgur.com/UKIdnuX.png"
+        platinum: "https://i.ibb.co/zTgR3zQq/image.png"
       }
     },
     {
@@ -219,7 +219,7 @@ const collection = {
       gender: "female",
       categoryId: 2,
       colors: {
-        red: "https://i.imgur.com/qBxF9y8.png"
+        red: "https://i.ibb.co/35F08PYj/image.png"
       }
     },
     {
@@ -229,7 +229,7 @@ const collection = {
       gender: "female",
       categoryId: 2,
       colors: {
-        black: "https://i.imgur.com/lFnVRp3.png"
+        black: "https://i.ibb.co/ycgHpPyv/image.png"
       }
     },
     {
@@ -239,7 +239,7 @@ const collection = {
       gender: "female",
       categoryId: 2,
       colors: {
-        platinum: "https://i.imgur.com/JfWyJnG.png"
+        platinum: "https://i.ibb.co/8LPKvHwD/image.png"
       }
     },
     {
@@ -1151,7 +1151,7 @@ const collection = {
       gender: "male",
       categoryId: 7,
       colors: {
-        gold: "https://i.imgur.com/C4wROuT.png"
+        gold: "https://i.ibb.co/gMg4Z5gM/image.png"
       }
     },
     {
@@ -1171,7 +1171,7 @@ const collection = {
       gender: "male",
       categoryId: 7,
       colors: {
-        black: "https://i.imgur.com/G2p1PDq.png"
+        black: "https://i.ibb.co/kgnz84yq/image.png"
       }
     },
     {
@@ -1181,7 +1181,7 @@ const collection = {
       gender: "male",
       categoryId: 7,
       colors: {
-        white: "https://i.imgur.com/5VuOWmE.png"
+        white: "https://i.ibb.co/PGF5mkX1/image.png"
       }
     },
     {
@@ -1191,7 +1191,7 @@ const collection = {
       gender: "male",
       categoryId: 7,
       colors: {
-        black: "https://i.imgur.com/eEHB73K.png"
+        black: "https://i.ibb.co/kVc3cFGY/image.png"
       }
     },
     {
@@ -1211,7 +1211,7 @@ const collection = {
       gender: "female",
       categoryId: 7,
       colors: {
-        gold: "https://i.ibb.co/YvdPgvM/aa.png"
+        gold: "https://i.ibb.co/6Rw7Qywd/image.png"
       }
     },
     {
@@ -1221,7 +1221,7 @@ const collection = {
       gender: "female",
       categoryId: 7,
       colors: {
-        black: "https://i.ibb.co/fVKhH4cF/bb.png"
+        black: "https://i.ibb.co/dwz20zwM/image.png"
       }
     },
     {
@@ -1231,7 +1231,7 @@ const collection = {
       gender: "female",
       categoryId: 7,
       colors: {
-        black: "https://i.ibb.co/GfbZyhpk/0-TR001755-1330-L1-030-A-Photoroom-1.png"
+        black: "https://i.ibb.co/0vx0bn1/image.png"
       }
     },
     {
@@ -1241,7 +1241,7 @@ const collection = {
       gender: "female",
       categoryId: 7,
       colors: {
-        brownish: "https://i.imgur.com/VjwgCjk.png"
+        brownish: "https://i.ibb.co/NHfFLpk/image.png"
       }
     },
     {
@@ -1251,7 +1251,7 @@ const collection = {
       gender: "female",
       categoryId: 7,
       colors: {
-        brownish: "https://i.imgur.com/8mWANS3.png"
+        brownish: "https://i.ibb.co/JNYcTM0/image.png"
       }
     },
     {
@@ -1261,7 +1261,7 @@ const collection = {
       gender: "female",
       categoryId: 7,
       colors: {
-        white: "https://i.imgur.com/4pBTDAA.png"
+        white: "https://i.ibb.co/JbDyJ24/image.png"
       }
     },
     {
@@ -1271,7 +1271,7 @@ const collection = {
       gender: "female",
       categoryId: 7,
       colors: {
-        black: "https://i.imgur.com/tw275bW.png"
+        black: "https://i.ibb.co/6R2CJGLY/image.png"
       }
     },
     {
@@ -1821,7 +1821,7 @@ const collection = {
       gender: "unisex",
       categoryId: 11,
       colors: {
-        gold: "https://i.imgur.com/yq8DZCa.png"
+        gold: "https://i.ibb.co/hFRMXwsq/image.png"
       }
     },
     {
@@ -1831,7 +1831,7 @@ const collection = {
       gender: "unisex",
       categoryId: 11,
       colors: {
-        silver: "https://i.imgur.com/gPUeBkH.png"
+        silver: "https://i.ibb.co/8n74P9Vz/image.png"
       }
     },
     {
@@ -1841,7 +1841,7 @@ const collection = {
       gender: "unisex",
       categoryId: 11,
       colors: {
-        silver: "https://i.imgur.com/RsD7Atr.png"
+        silver: "https://i.ibb.co/FkVsTY39/image.png"
       }
     },
     {
@@ -1851,7 +1851,7 @@ const collection = {
       gender: "unisex",
       categoryId: 11,
       colors: {
-        silver: "https://i.imgur.com/Lgq9z4z.png"
+        silver: "https://i.ibb.co/yBdySWjz/image.png"
       }
     },
     {
@@ -1861,7 +1861,7 @@ const collection = {
       gender: "unisex",
       categoryId: 11,
       colors: {
-        silver: "https://i.imgur.com/RWXbdak.png"
+        silver: "https://i.ibb.co/mVyL8Hp9/image.png"
       }
     },
     {
@@ -1871,7 +1871,7 @@ const collection = {
       gender: "unisex",
       categoryId: 11,
       colors: {
-        gold: "https://i.imgur.com/0o6ZOgu.png"
+        gold: "https://i.ibb.co/zH7VvFK0/image.png"
       }
     },
     {
@@ -1881,7 +1881,7 @@ const collection = {
       gender: "unisex",
       categoryId: 11,
       colors: {
-        white: "https://i.imgur.com/a72lvRq.png"
+        white: "https://i.ibb.co/ccrD10s4/image.png"
       }
     },
     {
@@ -1891,7 +1891,7 @@ const collection = {
       gender: "unisex",
       categoryId: 11,
       colors: {
-        rose: "https://i.imgur.com/7RwFtKZ.png"
+        rose: "https://i.ibb.co/gbBbD8tQ/image.png"
       }
     },
     {
@@ -1901,7 +1901,7 @@ const collection = {
       gender: "unisex",
       categoryId: 11,
       colors: {
-        platinum: "https://i.imgur.com/FivZN2J.png"
+        platinum: "https://i.ibb.co/v4zD8cP9/image.png"
       }
     },
     {
@@ -1971,7 +1971,7 @@ const collection = {
       gender: "female",
       categoryId: 12,
       colors: {
-        white: "https://i.imgur.com/Y6hcoco.png"
+        white: "https://i.ibb.co/mrtPr2qz/image.png"
       }
     },
     {
@@ -1981,7 +1981,7 @@ const collection = {
       gender: "female",
       categoryId: 12,
       colors: {
-        white: "https://i.imgur.com/7qZFLkX.png"
+        white: "https://i.ibb.co/zcW1xb4/image.png"
       }
     },
     {
@@ -1991,7 +1991,7 @@ const collection = {
       gender: "female",
       categoryId: 12,
       colors: {
-        pink: "https://i.imgur.com/QPf5LYu.png"
+        pink: "https://i.ibb.co/jv5vSqnM/image.png"
       }
     },
     {
@@ -2001,7 +2001,7 @@ const collection = {
       gender: "female",
       categoryId: 12,
       colors: {
-        pink: "https://i.imgur.com/KZjTFjM.png"
+        pink: "https://i.ibb.co/fdWWSzQh/image.png"
       }
     },
     {
@@ -2011,7 +2011,7 @@ const collection = {
       gender: "female",
       categoryId: 12,
       colors: {
-        black: "https://i.imgur.com/1ZTXlOX.png"
+        black: "https://i.ibb.co/ycNds5Mj/image.png"
       }
     },
     {
@@ -2021,7 +2021,7 @@ const collection = {
       gender: "female",
       categoryId: 12,
       colors: {
-        gold: "https://i.imgur.com/6Hi7T0T.png"
+        gold: "https://i.ibb.co/pjXgSz9B/image.png"
       }
     },
     {
@@ -2031,7 +2031,7 @@ const collection = {
       gender: "female",
       categoryId: 12,
       colors: {
-        pink: "https://i.imgur.com/KTKyXKn.png"
+        pink: "https://i.ibb.co/R4TGxBmX/image.png"
       }
     },
     {
@@ -2041,7 +2041,7 @@ const collection = {
       gender: "unisex",
       categoryId: 12,
       colors: {
-        black: "https://i.imgur.com/ojStuqH.png"
+        black: "https://i.ibb.co/pBZkqzCp/image.png"
       }
     },
     {
@@ -2051,7 +2051,7 @@ const collection = {
       gender: "male",
       categoryId: 12,
       colors: {
-        silver: "https://i.imgur.com/kNfTg08.png"
+        silver: "https://i.ibb.co/KjQ7kt1r/image.png"
       }
     },
     {
@@ -2061,7 +2061,7 @@ const collection = {
       gender: "male",
       categoryId: 12,
       colors: {
-        gold: "https://i.imgur.com/dMsNTzb.png"
+        gold: "https://i.ibb.co/jZy8z2BS/image.png"
       }
     },
     {
@@ -2071,7 +2071,7 @@ const collection = {
       gender: "male",
       categoryId: 12,
       colors: {
-        brownish: "https://i.imgur.com/ert6jR2.png"
+        brownish: "https://i.ibb.co/wvyRGbK/image.png"
       }
     },
     {
@@ -2081,7 +2081,7 @@ const collection = {
       gender: "male",
       categoryId: 12,
       colors: {
-        blue: "https://i.imgur.com/UlPXV5b.png"
+        blue: "https://i.ibb.co/fzZ7mcXb/image.png"
       }
     },
     {
@@ -2091,7 +2091,7 @@ const collection = {
       gender: "male",
       categoryId: 12,
       colors: {
-        blue: "https://i.imgur.com/4AeLlMN.png"
+        blue: "https://i.ibb.co/Z1Bp987r/image.png"
       }
     },
     {
@@ -2101,7 +2101,7 @@ const collection = {
       gender: "male",
       categoryId: 12,
       colors: {
-        black: "https://i.imgur.com/HjH86rm.png"
+        black: "https://i.ibb.co/LDmRdTXW/image.png"
       }
     },
     {
@@ -2111,7 +2111,7 @@ const collection = {
       gender: "male",
       categoryId: 12,
       colors: {
-        gold: "https://i.imgur.com/29RdIBB.png"
+        gold: "https://i.ibb.co/rG6hG0Dc/image.png"
       }
     },
     {
@@ -2151,7 +2151,7 @@ const collection = {
       gender: "female",
       categoryId: 1,
       colors: {
-        black: "https://i.imgur.com/BTAIsCF.png"
+        black: "https://i.ibb.co/rGN4vhB6/borsa.png"
       }
     },
     {
@@ -2174,7 +2174,7 @@ const collection = {
       gender: "female",
       categoryId: 1,
       colors: {
-        black: "https://i.imgur.com/0NkJ8lG.png"
+        black: "https://i.ibb.co/DjLFHwv/image.png"
       }
     },
     {
@@ -2184,7 +2184,7 @@ const collection = {
       gender: "female",
       categoryId: 1,
       colors: {
-        black: "https://i.imgur.com/KmnYxci.png"
+        black: "https://i.ibb.co/Kz9yK2pB/image.png"
       }
     },
     {
@@ -2256,7 +2256,7 @@ const collection = {
       gender: "unisex",
       categoryId: 13,
       colors: {
-        brownish: "https://i.imgur.com/eWheG85.png"
+        brownish: "https://i.ibb.co/vv636Dsq/image.png"
       }
     },
     {
@@ -2276,7 +2276,7 @@ const collection = {
       gender: "unisex",
       categoryId: 13,
       colors: {
-        white: "https://i.imgur.com/Frn9fzt.png"
+        white: "https://i.ibb.co/84XXCNGZ/image.png"
       }
     },
     {
@@ -2308,7 +2308,7 @@ const collection = {
       gender: "unisex",
       categoryId: 13,
       colors: {
-        black: "https://i.imgur.com/P3voSz4.png"
+        black: "https://i.ibb.co/Z1fYhnhn/image.png"
       }
     },
     {
@@ -2408,7 +2408,7 @@ const collection = {
       gender: "unisex",
       categoryId: 11,
       colors: {
-        gold: "https://i.imgur.com/rX0Ei3D.png"
+        gold: "https://i.ibb.co/wrYTtLDn/image.png"
       }
     },
     {
