@@ -2465,7 +2465,7 @@ const collection = {
     {
       id: 243,
       name: "PHARAOH™| VisionCam - Smart Recording Eyewear",
-      price: 8000,
+      price: 16000,
       gender: "unisex",
       categoryId: 7,
       colors: {
